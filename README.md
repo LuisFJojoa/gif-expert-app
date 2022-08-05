@@ -7,6 +7,7 @@ Gif Expert App es una SPA (Single Page Application) que permite consultar y desp
 * Creación de Custom Hook UseFetchApi.
 * Mensaje de carga.
 * Captura de datos a través de la API [Giphy Api](https://developers.giphy.com/)
+* Pruebas unitarias.
 
 _El STACK tecnológico utilizado para el proyecto fue el siguiente:_
 
